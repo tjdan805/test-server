@@ -12,6 +12,6 @@ public class TestController {
     }
     @GetMapping("/api/version")
     public String version(){
-        return "v2.0.20";
+        return "v2.0.21";
     }
 }
